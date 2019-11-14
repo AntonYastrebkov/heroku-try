@@ -5,6 +5,7 @@ import com.epam.heroku.shmeroku.model.User;
 import com.epam.heroku.shmeroku.model.UserDto;
 import com.epam.heroku.shmeroku.repository.UserRepository;
 import com.epam.security.service.SecurityService;
+import com.epam.security.service.SecurityService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
